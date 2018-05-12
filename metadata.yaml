@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1186
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29094#Les-myst-res-du-peuple-Tome-III--13-Histoire-d-une-famille-de-prol-taires---travers-les--ges
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-06-10'
 gutenberg_type: Text
